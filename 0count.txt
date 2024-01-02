@@ -1,0 +1,8 @@
+plants1:96
+plants2:97
+plants3:97
+plants4:98
+plants5:96
+plants6:95
+plants7:96
+plants8:99
